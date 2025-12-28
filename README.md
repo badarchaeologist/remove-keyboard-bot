@@ -7,5 +7,5 @@
 <b>Aiogram</b> 3.23.0
 <b>aiohttp</b> 3.13.2
 <b>Loguru</b> 0.7.3
-<b>Pydantic</b> 2.12.5 + <b>pydantic‑settings 2.12.0</b>
+<b>Pydantic</b> 2.12.5 + <b>pydantic‑settings</b> 2.12.0
 
